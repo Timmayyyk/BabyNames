@@ -1,0 +1,34 @@
+/*
+Timothy Davis, ID #1332245
+Section AH
+Homework 9, html css file
+This file styles the html page displayed
+*/
+
+body {
+	font-family: Georgia, serif;
+	font-size: 12pt;
+}
+
+q {
+	font-style: italic;
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;
+}
+
+td div {
+	background-color: #FFBBBB;
+	width: 50px;
+	text-align: center;
+}
+
+div.popular {
+	color: red;
+}
+
+td, li {
+	font-weight: bold;
+}
